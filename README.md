@@ -4,12 +4,12 @@
 
 ### Definição das tarefas
 
-(g3) Alínea 1: Ilídio Martins | ilidio.martins@gmail.com
+(g10) Alínea 1: Wendy Ndlalane | wendy.ndlalane@gmail.com
 
-(g3) Alínea 2: Jailson Costa | jailson.da.luz.costa@gmail.com
+(g10) Alínea 2: Paulino Jonas | paulinojonaspj@gmail.com
 
-(g3) Alínea 3: Egon Holtz | egonholtz@gmail.com
+(g10) Alínea 3: José Filipe Mota Ferreira | filipeferreira96@hotmail.com
 
-(g3) Alínea 4: Duarte Cota | duartenunocota@gmail.com
+(g10) Alínea 4: Edgar Swarowski | 2002425@estudante.uab.pt
 
-(g3) Alínea 5: Gervásio Caetano | gac.mendoso@gmail.com
+(g10) Alínea 5: Daniel Gonçalves | daniel.goncalves86@gmail.com
