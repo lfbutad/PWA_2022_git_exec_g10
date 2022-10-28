@@ -1,4 +1,8 @@
 body{
     font-family: "Georgia", Times, "Times New Roman", serif;
     font-size: 20px;
- } 
+ }
+
+ h1, h2 {
+    margin: 0px;
+ }
