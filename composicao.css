@@ -40,9 +40,15 @@ body{
 
  /* Ponto 3 */
  section.bloco1 {
-    width: 200px;
+    /* width: 200px; */
+    width: 50%;
  }
 
  section.bloco1 {
     float: left;
+ }
+
+ section.bloco2 {
+    /* margin-left: 200px; */
+    margin-left: 50%;
  }
