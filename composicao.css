@@ -1,1 +1,44 @@
- 
+/* Ponto 1 */
+body{
+    font-family: "Georgia", Times, "Times New Roman", serif;
+    font-size: 20px;
+ }
+
+ h1, h2 {
+    margin: 0px;
+ }
+
+ p {
+    line-height: 1.5em;
+ }
+
+ /* Ponto 2 - Podia utilizar-se a entrada do Ponto 1 relativa a este Div para este exercicio. */
+ div.base{
+    width: 960px;
+    margin: auto;
+ }
+
+ /* Ponto 3 */
+ section.bloco1 {
+    width: 200px;
+ }
+
+ section.bloco1 {
+    float: left;
+ }
+
+ /* Ponto 4 */
+ section.bloco2 {
+    width: 500px;
+    float: left;
+ }
+
+ section.bloco3 {
+    margin-left: 700px;
+ }
+
+ /* Ponto 5 */
+section.bloco2 > img {
+    margin: 10px;
+    float: left;
+}
