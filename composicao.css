@@ -42,3 +42,7 @@ body{
  section.bloco1 {
     width: 200px;
  }
+
+ section.bloco1 {
+    float: left;
+ }
