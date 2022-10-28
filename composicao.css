@@ -40,8 +40,7 @@ body{
 
  /* Ponto 3 */
  section.bloco1 {
-    /* width: 200px; */
-    width: 50%;
+    width: 200px;
  }
 
  section.bloco1 {
@@ -57,3 +56,9 @@ body{
  section.bloco3 {
     margin-left: 700px;
  }
+
+ /* Ponto 5 */
+section.bloco2 > img {
+    margin: 10px;
+    float: left;
+}
