@@ -1,6 +1,6 @@
-# PWA_2021_git_exec_g3
+# PWA_2021_git_exec_g10
 
-## Exercício com o Git - Grupo 3
+## Exercício com o Git - Grupo 10
 
 ### Definição das tarefas
 
