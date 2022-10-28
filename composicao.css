@@ -12,26 +12,6 @@ body{
     line-height: 1.5em;
  }
 
-/* Se se pretender apenas os elementos que sejam do tipo div e com esta classe, usar div.base */
- .base {
-    background-color: #eeeeee;
- }
-
-/* Se se pretender apenas os elementos que sejam do tipo section e com esta classe, usar section.bloco1 */
- .bloco1 {
-    background-color: orange;
- }
-
-/* Se se pretender apenas os elementos que sejam do tipo section e com esta classe, usar section.bloco2 */
- .bloco2 {
-    background-color: green;
- }
-
-/* Se se pretender apenas os elementos que sejam do tipo section e com esta classe, usar section.bloco3 */
- .bloco3 {
-    background-color: red;
- }
-
  /* Ponto 2 - Podia utilizar-se a entrada do Ponto 1 relativa a este Div para este exercicio. */
  div.base{
     width: 960px;
