@@ -37,3 +37,8 @@ body{
     width: 960px;
     margin: auto;
  }
+
+ /* Ponto 3 */
+ section.bloco1 {
+    width: 200px;
+ }
