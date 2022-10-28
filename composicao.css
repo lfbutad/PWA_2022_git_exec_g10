@@ -1,3 +1,4 @@
+/* Ponto 1 */
 body{
     font-family: "Georgia", Times, "Times New Roman", serif;
     font-size: 20px;
@@ -29,4 +30,10 @@ body{
 /* Se se pretender apenas os elementos que sejam do tipo section e com esta classe, usar section.bloco3 */
  .bloco3 {
     background-color: red;
+ }
+
+ /* Ponto 2 - Podia utilizar-se a entrada do Ponto 1 relativa a este Div para este exercicio. */
+ div.base{
+    width: 960px;
+    margin: auto;
  }
