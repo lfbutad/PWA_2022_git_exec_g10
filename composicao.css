@@ -51,4 +51,5 @@ body{
  /* Ponto 4 */
  section.bloco2 {
     width: 500px;
+    float: left;
  }
